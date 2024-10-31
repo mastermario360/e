@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charleyy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="faggot0000" x="0" y="0" width="640" height="360"/>
+	<SubTexture name="faggot0001" x="0" y="0" width="640" height="360"/>
+	<SubTexture name="faggot0002" x="0" y="360" width="640" height="360"/>
+	<SubTexture name="faggot0003" x="0" y="360" width="640" height="360"/>
+	<SubTexture name="faggot0004" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="faggot0005" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="faggot0006" x="0" y="1080" width="640" height="360"/>
+	<SubTexture name="faggot0007" x="0" y="1080" width="640" height="360"/>
+	<SubTexture name="faggot0008" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="faggot0009" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="faggot0010" x="640" y="0" width="640" height="360"/>
+	<SubTexture name="faggot0011" x="640" y="0" width="640" height="360"/>
+	<SubTexture name="faggot0012" x="640" y="360" width="640" height="360"/>
+	<SubTexture name="faggot0013" x="640" y="360" width="640" height="360"/>
+	<SubTexture name="faggot0014" x="640" y="720" width="640" height="360"/>
+	<SubTexture name="faggot0015" x="640" y="720" width="640" height="360"/>
+	<SubTexture name="faggot0016" x="640" y="1080" width="640" height="360"/>
+	<SubTexture name="faggot0017" x="640" y="1080" width="640" height="360"/>
+	<SubTexture name="faggot0018" x="640" y="1440" width="640" height="360"/>
+	<SubTexture name="faggot0019" x="640" y="1440" width="640" height="360"/>
+</TextureAtlas>
